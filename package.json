@@ -1,8 +1,8 @@
 {
-    "name": "berry-material-react-free",
-    "version": "3.3.0",
+    "name": "berry-dashboard-rmi",
+    "version": "1.0.0",
     "private": true,
-    "homepage": "https://berrydashboard.io/free",
+    "homepage": "https://www.rmasters.group",
     "dependencies": {
         "@emotion/cache": "^11.9.3",
         "@emotion/react": "^11.9.3",
@@ -74,7 +74,7 @@
         "eslint-plugin-prettier": "^4.2.1",
         "eslint-plugin-react": "^7.30.1",
         "eslint-plugin-react-hooks": "4.6.0",
-        "prettier": "^2.7.1",
+        "prettier": "^2.8.3",
         "sass": "^1.53.0"
     }
 }
